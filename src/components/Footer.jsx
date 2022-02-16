@@ -5,7 +5,7 @@ const Footer = () => {
             <h4 className="text-center text-light m-auto h3 py-3">Contact</h4>
             <div className="d-flex justify-content-center gap-5 text-center m-auto">
                 <a 
-                    href="https://github.com/GuserHub23/PokeAPI_TypeScript"
+                    href="https://github.com/GuserHub23/context-api-prueba"
                     className="text-light text-decoration-none my-4"
                     target="_blank"
                     rel="noreferrer"
